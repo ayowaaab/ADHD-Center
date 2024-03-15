@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>google.png</file>
+        <file>messenger.png</file>
+        <file>sign.png</file>
+    </qresource>
+</RCC>

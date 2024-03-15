@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>activite.png</file>
+        <file>benevole.png</file>
+        <file>enfant.png</file>
+        <file>medecin.png</file>
+        <file>personnel.png</file>
+        <file>seance.png</file>
+        <file>Menu.png</file>
+        <file>devmedez.png</file>
+        <file>Doctor.png</file>
+        <file>Mailing.png</file>
+    </qresource>
+</RCC>
